@@ -4,8 +4,8 @@ Just an artist, writer and programmer who loves to experiment and tinker. I have
 
 - 💻 I have a website at [https://tonybark.com](https://tonybark.com)
 - 👌 I'm most familiar and comfortable with `C#` and `Rust`
-- 📚 I'm currently learning `Haskell` and `F#`
-- 🌱 Working to get better at `Swift`
+- 📚 I'm currently learning `Haskell`
+- 🌱 Working to get better at `F#` and `Kotlin`
 
 ![tonytins](https://github-readme-stats.vercel.app/api/top-langs?username=tonytins&show_icons=true&locale=en&layout=compact&hide=shaderlab,c%2B%2B,pascal)
 ## Labs
