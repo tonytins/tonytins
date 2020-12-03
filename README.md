@@ -13,4 +13,4 @@ Just an artist, writer and programmer who loves to experiment and tinker. I have
 These are my programming experiments using Jupyter notebooks.
 
 - [.NET Labs](https://github.com/tonytins/dotnetlab)
-- [ML.NET Workshop](https://github.com/tonytins/mlworkshop)
+- [ML.NET Labs](https://github.com/tonytins/mlnetlabs)
