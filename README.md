@@ -1,11 +1,6 @@
 # Hello 👋
 
-Just an artist, writer and programmer who loves to experiment and tinker. I have several years of experience in C# while currently learning Rust. Most of my projects relate to AI, games and command line applications.
-
-- 💻 I have a website at [https://tonybark.com](https://tonybark.com)
-- 👌 I'm most familiar with `Go`, `C#` and `Rust`
-- 📚 I'm currently learning `Haskell`
-- 🌱 Working to get better at `Swift` and `Kotlin`
+Just an artist, writer and programmer who loves to experiment and tinker. I'm most familiar with and knowledgeable on .NET. I've worked with it the longest and use it for a range personal tasks related to modding, server and client projects - all of which is publicly available here. I use ``Rust`` or ``Go`` for command line projects.
 
 ![tonytins](https://github-readme-stats.vercel.app/api?username=tonytins&show_icons=true&theme=tokyonight)
 ## Labs
