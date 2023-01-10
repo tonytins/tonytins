@@ -33,7 +33,6 @@ A desktop application for tracking commissions, adoptable characters, and YCH (Y
 
 A command line application written in C# that generates epub files from Markdown using Pandoc as the backend for generation.
 
-
 ## Past Projects
 
 ### Blazor Art Gallery
@@ -50,6 +49,6 @@ Developed as a simple launcher and updater for a project that reverse engineered
 
 I would like to take a moment to acknowledge my contributions to the Sims Online reverse engineering project that I was a part of. While my efforts may not have been officially recognized, I played a significant role in the development and progress of the project, such as the tools like Blue Rose.
 
-One of my major contributions was the demonstration of how to switch the game from XNA to Monogame framework. At the time, the lead developer was hesitant to change to a new framework, but I was able to successfully pull it off. This greatly improved the game's performance and allowed for more efficient development going forward.
+One of my major contributions was the demonstration of how to switch the game from XNA to the Monogame, a drop-in replacement. At the time, the lead developer was hesitant to migrate over, but I was able to successfully pull it off. This greatly improved the game's performance and allowed for more efficient development going forward.
 
 Unfortunately, I was not included in the actual porting process and my contribution with everything else remains uncredited. I hope you understand that is why I refuse to address the project by name. Nonetheless, I am proud of my contribution to the overall project and I believe it is important to acknowledge it. CST.NET alone should demonstrate how much I'm aware of the inner workings, especially considering how obscure format is.
