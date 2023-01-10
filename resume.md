@@ -1,19 +1,21 @@
 # Tony Bark
 
+I've developed CST.NET, a reimplementation of the parser for ``.cst`` files originally used in The Sims Online. Additionally, I have a Rust variant known as CST.rs, Commission Manager, a desktop application for tracking commissions and other transactions, utilizing MAUI and Blazor frameworks, and Ryubook, a epub generator that uses Pandoc as a backend.
+
 ## Skills
 
 - Programming languages: C#, Rust
 - Frameworks: MAUI, Blazor, COSMOS, Windows Forms
-- Tools: Visual Studio, Git
+- Tools: Visual Studio (Code), Git
 
 ### Software Developer
 
-**Freelancer** (2017-Present)
+**Freelancer** (2015-Present)
 
-- Developed and maintain CST.NET and CST.rs, reimplementation of the parser for ``.cst`` files originally used in The Sims Online and now also used internally within my projects.
-- Developed TOMAS, a managed operating system based on COSMOS framework.
-- Developed Commission Manager, a desktop application for tracking commissions and other transactions, utilizing MAUI and Blazor frameworks.
-- Developed Ryubook, a command line application written in C# that generates epub files from Markdown using Pandoc as the backend for generation.
+- CST.NET, reimplementation of the parser for ``.cst`` files originally used in The Sims Online and now also used internally within my projects.
+- TOMAS, a managed operating system based on COSMOS framework.
+- Commission Manager, a desktop application for tracking commissions and other transactions, utilizing MAUI and Blazor frameworks.
+- Ryubook, a command line application written in C# that generates epub files from Markdown using Pandoc as the backend for generation.
 
 ## Projects
 
