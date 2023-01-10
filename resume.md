@@ -14,7 +14,6 @@
 - Developed TOMAS, a managed operating system based on COSMOS framework.
 - Developed Commission Manager, a desktop application for tracking commissions and other transactions, utilizing MAUI and Blazor frameworks.
 - Developed Ryubook, a command line application written in C# that generates epub files from Markdown using Pandoc as the backend for generation.
-- Developed Blue Rose, a simple launcher and updater for a project that reverse engineered The Sims Online, it was written using C# with Windows Forms.
 
 ## Projects
 
@@ -34,9 +33,6 @@ A desktop application for tracking commissions, adoptable characters, and YCH (Y
 
 A command line application written in C# that generates epub files from Markdown using Pandoc as the backend for generation.
 
-### Blue Rose
-
-Developed as a simple launcher and updater for a project that reverse engineered The Sims Online, it was written using C# with Windows Forms. It served to replace the original old launcher after the reverse engineering project switched leads and development rapidly speed up.
 
 ## Past Projects
 
@@ -46,6 +42,9 @@ I developed a personal art gallery, inspired by DeviantART, using C# and Blazor.
 
 It was a learning experience in using Blazor and working with modern web app frameworks like Bootstrap. Unfortunately, my lack of familiarity with Blazor at the time, and modern web app frameworks, led to some complexity that made it hard to maintain.
 
+### Blue Rose
+
+Developed as a simple launcher and updater for a project that reverse engineered The Sims Online, it was written using C# with Windows Forms. It served to replace the original old launcher after the reverse engineering project switched leads and development rapidly speed up.
 
 ## Appreciation
 
