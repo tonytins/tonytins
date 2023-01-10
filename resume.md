@@ -38,13 +38,13 @@ A command line application written in C# that generates epub files from Markdown
 
 Developed as a simple launcher and updater for a project that reverse engineered The Sims Online, it was written using C# with Windows Forms. It served to replace the original old launcher after the reverse engineering project switched leads and development rapidly speed up.
 
-It was a learning experience in using Blazor and working with modern web app frameworks like Bootstrap. Unfortunately, my lack of familiarity with Blazor at the time, and modern web app frameworks, led to some complexity that made it hard to maintain.
-
 ## Past Projects
 
 ### Blazor Art Gallery
 
 I developed a personal art gallery, inspired by DeviantART, using C# and Blazor. The project had no official name or code name, but it was simply referred to as "WebApp" and was my first time working with Blazor. The goal of the project was to create a web application where I can upload, view, and manage my artworks, but anyone could view it. Being an artist before a programmer, it was my own way to showcase my artworks and improve my skill on webdev.
+
+It was a learning experience in using Blazor and working with modern web app frameworks like Bootstrap. Unfortunately, my lack of familiarity with Blazor at the time, and modern web app frameworks, led to some complexity that made it hard to maintain.
 
 
 ## Appreciation
