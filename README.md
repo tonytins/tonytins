@@ -1,8 +1,8 @@
 # Arf! I'm Tony Bark. 🦊
 
-I'm a self-taught software developer with experience in C# and Rust. I'm an artist with a passion for programming and have been constantly teaching myself new skills. I strive for high maintainability and low technical debt in my projects.
+I'm a self-taught developer and artist. I strive for high maintainability and low technical debt in my projects. While I make plenty of software and libraries, I like to develop games.
 
-- 🛠️ Most comfortable using `C#` and `Rust`
+- 🛠️ Most comfortable using `GDScript`, `C#` and `Rust`
 - 🧰 Familiar with `Godot` and `Blazor`
 
 ---
