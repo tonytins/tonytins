@@ -4,7 +4,7 @@ I'm a self-taught developer and artist. I strive for high maintainability and lo
 
 - 🛠️ Most comfortable using `C#` and `Rust`
 - 🧰 Familiar with `Godot` and `Blazor`
-- 📚  Learning `Tauri`, `Angular`, and `TypeScript`
+- 📚 Learning `Tauri`, `Vue`, and `TypeScript`
 
 ---
 
