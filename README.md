@@ -2,9 +2,9 @@
 
 I'm a self-taught developer and artist. I strive for high maintainability and low technical debt in my projects. While I make plenty of software and libraries, I like to develop games.
 
-- 🛠️ Most comfortable using `C#` and `Rust`
-- 🧰 Familiar with `Godot` and `Blazor`
-- 📚 Learning `Tauri`, `Vue`, and `TypeScript`
+- 🛠️ Most comfortable using `C#`
+- 👍 Familiar with `Godot`, `Blazor` and `Rust`
+- 📚 Currently learning `Zig`
 
 ---
 
