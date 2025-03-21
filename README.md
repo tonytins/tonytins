@@ -1,17 +1,15 @@
 # Arf! I'm Tony Bark. 🦊
 
-I'm a self-taught indie developer focused on cross-platform games using Godot and desktop applications built with Tauri. I always aim for high maintainability with minimal technical debt. Earlier Tauri projects utilized Vue for the frontend, but starting with [Amtrak Status](https://github.com/tonytins/amtkstat), I've shifted to .NET Blazor. For all .NET-based programs, I target the latest LTS releases and strive to provide the bare minimum long-term support.
+I'm a self-taught indie developer. While I'm not chasing perfection, I do aim for reliability and I've learned to [code like NASA](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code) over the years. My true passion is developing games, where I started with MonoGame before shifting towards RayLib and Godot.
 
-I design my libraries and applications—whether desktop or CLI—to be functional from day one. They're crafted for my own use, but you can use them too, even if it's just for a simple need or experimentation. 
+When it comes to .NET, my go-to language, I stick with LTS (unless I need a newer API) and give my projects the same life cycle. You can thank a little accidental mishap with my first widely shared project, [Blue Rose](https://github.com/tonytins/BlueRoseClassic), for shaping that mindset.
 
-Before committing an initial release, I rigorously test everything on my own systems. However, being a solo developer, I can't guarantee perfect compatibility across other platforms. I also follow a .NET-style versioning scheme, with version numbers starting in the 100s, either in the minor or patch section, for every type of software.
-
-I'm not chasing perfection, just reliability. You can thank my very first public release, [Blue Rose](https://github.com/tonytins/BlueRoseClassic), for shaping that mindset.
+Being a solo developer, I sometimes use AI to generate certain algorithms that I genuinely wouldn't know where to begin. That being said, I treat these as templates and build upon it from there, such as [StaggerPost](https://github.com/tonytins/StaggerPost).
 
 ---
 
 - 🛠️ Most comfortable using `C#` and `Blazor`
 - 👍 Familiar with `Tauri` and `Rust`
-- 📚 Currently learning `Zig`, `GDscript`, `C`[^1]
+- 📚 Currently learning ``Raylib``, `Zig`, `GDscript`, `C`[^1]
 
 [^1]: Indirectly through Zig.
