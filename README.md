@@ -4,7 +4,7 @@ I'm a self-taught indie developer. While I'm not chasing perfection, I do aim fo
 
 When it comes to .NET, my go-to language, I stick with LTS (unless I need a newer API) and give my projects the same life cycle. You can thank a little accidental mishap with my first widely shared project, [Blue Rose](https://github.com/tonytins/BlueRoseClassic), for shaping that mindset.
 
-Being a solo developer, I sometimes use AI to generate certain algorithms that I genuinely wouldn't know where to begin. That being said, I treat these as templates and build upon it from there, such as [StaggerPost](https://github.com/tonytins/StaggerPost).
+Being a solo developer, I sometimes use AI to generate certain algorithms or just when I need a basic template to build off of, such as [StaggerPost](https://github.com/tonytins/StaggerPost). Nothing extreme.
 
 ---
 
