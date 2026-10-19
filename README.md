@@ -1,3 +1,3 @@
 # Arf! I'm Tony Bark. 🦊
 
-I'm a self-taught indie Swift developer with past experience in C# and Rust.
+Burnt out dev who taught himself Swift, C# and Rust. I'm just vibe coding my dreams now.
